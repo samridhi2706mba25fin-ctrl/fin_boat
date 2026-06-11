@@ -1,4 +1,4 @@
-# Automated Credit Risk Assessment & Application Workflow
+# Automated  fin_boat & Application Workflow
 
 An end-to-end automated pipeline built with **n8n** and **Orange Data Mining** that trains a predictive risk model, ingests financial application data from **Google Sheets**, evaluates applicants through multi-tiered conditional logic, and sends automated decision notifications via **Gmail**.
 
